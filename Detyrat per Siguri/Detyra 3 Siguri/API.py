@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter.filedialog import askopenfilename, asksaveasfilename
-from Detyra_3 import writeToFile
+from Webcrawler import writeToFile
 import pandas as pd
 import tkinter.font as tkFont
 from tkinter import ttk
